@@ -5,7 +5,7 @@
 */
 public class SayHi {
     public static void main(String[] args) {
-	SayHi sayHi=new SayHi();
+	SayHi sayHi = new SayHi();
 	sayHi.sayHi(sayHi.sum());
     }
     public void sayHi(int sum) {
