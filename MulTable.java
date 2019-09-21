@@ -1,7 +1,7 @@
 /**
-* Descripton: Aligning Output of the 99 Multiplication Table
-* Author:     chun
-* Date:       2019-9-16
+* Description: Aligning Output of the 99 Multiplication Table
+* Author:      chun
+* Date:        2019-9-16
 */
 public class MulTable {
     public static void main(String[] args){
