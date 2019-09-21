@@ -1,5 +1,5 @@
 /**
-* Description: Output "34 + 30 =" + 34 + 30
+* Description: Output the result of "34 + 30 =" + 34 + 30
 * Author:      chun
 * Date:        2019-9-15
 */
