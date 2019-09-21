@@ -1,7 +1,7 @@
 /**
-* Descripton: Enter the number of layers of the pyramid to print the pyramid pattern
-* Author:     chun
-* Date:       2019-9-16
+* Description: Enter the number of layers of the pyramid to print the pyramid pattern
+* Author:      chun
+* Date:        2019-9-16
 */
 import java.util.Scanner;
 public class Pyramid {
