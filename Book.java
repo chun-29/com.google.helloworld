@@ -7,6 +7,7 @@ package com.google.chapter.six;
  * @date: 2019/10/30
  */
 public class Book {
+    //定义书号、书名、页数
     private String bookId;
     private String bookName;
     protected int pages;
