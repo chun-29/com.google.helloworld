@@ -2,7 +2,7 @@ package com.google.chapter.six;
 
 /**
  * @program: classprogram
- * @Description:
+ * @Description: 子类访问父类的protect成员变量
  * @author: chun
  * @date: 2019/10/30
  */
