@@ -1,18 +1,10 @@
-/**
- * @program: usermanagerment
- * @Description: Custom user name and password
- * @author: chun
- * @date: 2019-10-30 
- */
-package com.google.user;
+package com.google.chapter.six;
 
-/**
- * @author Administrator
- * @date   2019-10-30
- */
 public class DefaultValue {
-	
-	//finalÊÇ²»¿ÉĞŞ¸ÄµÄÒâË¼£¬×Ô¶¨ÒåÓÃ»§ÃûºÍÓÃ»§ÃÜÂë
-	public final static String USERNAME = "jame";
-	public final static String USERPASSWORD = "123456";
+    //å›¾ä¹¦çš„ç¼–ç å¿…é¡»åŒ…å«â€œINBâ€
+    //è®¾ç½®ä¸€ä¸ªå¸¸é‡ï¼Œåä¸ºBOOK_SKU
+    final public static String DICTIONARY_SKU = "D001";
+    final public static String content() {
+        return "INB";
+    }
 }
